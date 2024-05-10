@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.gitnetbeans;
-
+ 
 public class NewMain {
 public static void main(String[] args) {
 System.out.println(Sumador.sumar (15f,4f));
