@@ -3,8 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.gitnetbeans;
- 
-public class NewMain {
-public static void main(String[] args) {
-System.out.println(Restador.restar (15f,4f));
+
+/**
+ *
+ * @author a23amanlv
+ */
+public class Restador {
+public static float restar (float a, float b ){
+return a - b;
 }}
